@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kitty-search%20/static/css/main.ce19d975.css",
+    "main.js": "/kitty-search%20/static/js/main.de607e82.js",
+    "static/js/787.4e61ed83.chunk.js": "/kitty-search%20/static/js/787.4e61ed83.chunk.js",
+    "index.html": "/kitty-search%20/index.html",
+    "main.ce19d975.css.map": "/kitty-search%20/static/css/main.ce19d975.css.map",
+    "main.de607e82.js.map": "/kitty-search%20/static/js/main.de607e82.js.map",
+    "787.4e61ed83.chunk.js.map": "/kitty-search%20/static/js/787.4e61ed83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce19d975.css",
+    "static/js/main.de607e82.js"
+  ]
+}
